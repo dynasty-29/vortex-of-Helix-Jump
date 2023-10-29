@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9aa73f32ebce1194d8a68547f5d0d0e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - topTransform: {instanceID: 0}
+  - goalTransform: {instanceID: 0}
+  - helixLevelPrefab: {fileID: 1448277556501934, guid: f0c9ad13dbd5c4b4dbd703af2bbab6fb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
